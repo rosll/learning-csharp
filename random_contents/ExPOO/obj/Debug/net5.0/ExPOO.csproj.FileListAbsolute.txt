@@ -1,0 +1,16 @@
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\bin\Debug\net5.0\ExPOO.exe
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\bin\Debug\net5.0\ExPOO.deps.json
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\bin\Debug\net5.0\ExPOO.runtimeconfig.json
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\bin\Debug\net5.0\ExPOO.runtimeconfig.dev.json
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\bin\Debug\net5.0\ExPOO.dll
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\bin\Debug\net5.0\ref\ExPOO.dll
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\bin\Debug\net5.0\ExPOO.pdb
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ExPOO.csproj.AssemblyReference.cache
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ExPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ExPOO.AssemblyInfoInputs.cache
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ExPOO.AssemblyInfo.cs
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ExPOO.csproj.CoreCompileInputs.cache
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ExPOO.dll
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ref\ExPOO.dll
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ExPOO.pdb
+C:\Users\Romulo\Documents\learning\csharpcourse\ExPOO\obj\Debug\net5.0\ExPOO.genruntimeconfig.cache

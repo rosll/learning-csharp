@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEAOiOekpGYZ11PSnd4bHvSirPhx3xq7Y5fyMgN/jOpYWwoyZvwCW1kOivq8u4CLXmO8M1XEgE9Q9utTXD+rtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\FuncaoBasica\\FuncaoBasica\\FuncaoBasica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romulo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

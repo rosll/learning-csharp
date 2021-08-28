@@ -1,0 +1,16 @@
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\bin\Debug\net5.0\for_.exe
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\bin\Debug\net5.0\for_.deps.json
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\bin\Debug\net5.0\for_.runtimeconfig.json
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\bin\Debug\net5.0\for_.runtimeconfig.dev.json
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\bin\Debug\net5.0\for_.dll
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\bin\Debug\net5.0\ref\for_.dll
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\bin\Debug\net5.0\for_.pdb
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\for_.csproj.AssemblyReference.cache
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\for_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\for_.AssemblyInfoInputs.cache
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\for_.AssemblyInfo.cs
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\for_.csproj.CoreCompileInputs.cache
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\for_.dll
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\ref\for_.dll
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\for_.pdb
+C:\Users\Romulo\Documents\learning\csharpcourse\for\for_\obj\Debug\net5.0\for_.genruntimeconfig.cache

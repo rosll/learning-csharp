@@ -1,0 +1,13 @@
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\bin\Debug\netcoreapp3.1\FuncaoBasica.exe
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\bin\Debug\netcoreapp3.1\FuncaoBasica.deps.json
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\bin\Debug\netcoreapp3.1\FuncaoBasica.runtimeconfig.json
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\bin\Debug\netcoreapp3.1\FuncaoBasica.runtimeconfig.dev.json
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\bin\Debug\netcoreapp3.1\FuncaoBasica.dll
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\bin\Debug\netcoreapp3.1\FuncaoBasica.pdb
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\obj\Debug\netcoreapp3.1\FuncaoBasica.csprojAssemblyReference.cache
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\obj\Debug\netcoreapp3.1\FuncaoBasica.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\obj\Debug\netcoreapp3.1\FuncaoBasica.AssemblyInfo.cs
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\obj\Debug\netcoreapp3.1\FuncaoBasica.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\obj\Debug\netcoreapp3.1\FuncaoBasica.dll
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\obj\Debug\netcoreapp3.1\FuncaoBasica.pdb
+C:\Users\Samsung\Documents\csharpcourse\FuncaoBasica\FuncaoBasica\obj\Debug\netcoreapp3.1\FuncaoBasica.genruntimeconfig.cache

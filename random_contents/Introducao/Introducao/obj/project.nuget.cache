@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9F9yEwWmaRx/xXVR6jnpqZ3/aCY3JnzmqzKU8rNKplyIoBh4SkrsO+xXc+osANNYtX/psUzdyBIddhAMkFfmaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\random-contents\\Introducao\\Introducao\\Introducao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romulo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
