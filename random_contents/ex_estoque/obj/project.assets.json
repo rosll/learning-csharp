@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\random-contents\\ex_estoque\\ex_estoque.csproj",
+      "projectUniqueName": "C:\\Users\\Romulo\\Documents\\learning\\learning-csharp\\random_contents\\ex_estoque\\ex_estoque.csproj",
       "projectName": "ex_estoque",
-      "projectPath": "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\random-contents\\ex_estoque\\ex_estoque.csproj",
+      "projectPath": "C:\\Users\\Romulo\\Documents\\learning\\learning-csharp\\random_contents\\ex_estoque\\ex_estoque.csproj",
       "packagesPath": "C:\\Users\\Romulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\random-contents\\ex_estoque\\obj\\",
+      "outputPath": "C:\\Users\\Romulo\\Documents\\learning\\learning-csharp\\random_contents\\ex_estoque\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Romulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

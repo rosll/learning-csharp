@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\ExWPOO\\ExWPOO.csproj": {}
+    "C:\\Users\\Romulo\\Documents\\learning\\learning-csharp\\random_contents\\ExWPOO\\ExWPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\ExWPOO\\ExWPOO.csproj": {
+    "C:\\Users\\Romulo\\Documents\\learning\\learning-csharp\\random_contents\\ExWPOO\\ExWPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\ExWPOO\\ExWPOO.csproj",
+        "projectUniqueName": "C:\\Users\\Romulo\\Documents\\learning\\learning-csharp\\random_contents\\ExWPOO\\ExWPOO.csproj",
         "projectName": "ExWPOO",
-        "projectPath": "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\ExWPOO\\ExWPOO.csproj",
+        "projectPath": "C:\\Users\\Romulo\\Documents\\learning\\learning-csharp\\random_contents\\ExWPOO\\ExWPOO.csproj",
         "packagesPath": "C:\\Users\\Romulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Romulo\\Documents\\learning\\csharpcourse\\ExWPOO\\obj\\",
+        "outputPath": "C:\\Users\\Romulo\\Documents\\learning\\learning-csharp\\random_contents\\ExWPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Romulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
